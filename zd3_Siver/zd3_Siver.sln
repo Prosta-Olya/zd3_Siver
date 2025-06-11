@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zd3_Siver", "zd3_Siver.csproj", "{7F537DCA-67C9-4542-B884-6A3A6ACA6DC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFood", "..\TestFood\TestFood.csproj", "{A72F23CA-168E-409E-8915-76B06155D813}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F537DCA-67C9-4542-B884-6A3A6ACA6DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F537DCA-67C9-4542-B884-6A3A6ACA6DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F537DCA-67C9-4542-B884-6A3A6ACA6DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F537DCA-67C9-4542-B884-6A3A6ACA6DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A72F23CA-168E-409E-8915-76B06155D813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A72F23CA-168E-409E-8915-76B06155D813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A72F23CA-168E-409E-8915-76B06155D813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A72F23CA-168E-409E-8915-76B06155D813}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C32C297-EC5E-45F3-BB69-969D0C382251}
+	EndGlobalSection
+EndGlobal
